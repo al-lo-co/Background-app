@@ -70,3 +70,7 @@ gem "sidekiq", "~> 7.3"
 gem "redis", "~> 5.2"
 
 gem "rubocop", "~> 1.65"
+
+gem "brakeman", "~> 6.1"
+
+gem "bundler-audit", "~> 0.9.1"
